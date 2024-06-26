@@ -4,10 +4,10 @@ spring:
       active-directory:
         enabled: true
         profile:
-          tenant-id: 6a574231-a96f-4635-befa-77b5a19166d8
+          tenant-id: 
         credential:
-          client-id: ddcb2238-3c22-4c15-9c13-119b51f30a2c
-          client-secret: 0Xl8Q~EnMwpQBTZSZH8Lce7VeLlkGPhmyJK0TddQ
+          client-id: 
+          client-secret: 
 server:
   port: 9191
   forward-headers-strategy: native
